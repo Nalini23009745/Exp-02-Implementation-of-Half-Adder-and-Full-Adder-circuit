@@ -60,8 +60,11 @@ FULL ADDER:![image](https://github.com/Nalini23009745/Exp-02-Implementation-of-H
 
 
 ### TRUTH TABLE :
-HALF ADDER:![image](https://github.com/Nalini23009745/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149347484/d2d23994-9a70-403f-9782-facc3bc9490b)
-FULL ADDERl:![image](https://github.com/Nalini23009745/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149347484/34130d44-9b14-4683-989f-2fa9e41543a8)
+HALF ADDER:
+![image](https://github.com/Nalini23009745/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149347484/d2d23994-9a70-403f-9782-facc3bc9490b)
+
+FULL ADDERl:
+![image](https://github.com/Nalini23009745/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149347484/34130d44-9b14-4683-989f-2fa9e41543a8)
 
 
 ### Result:Thus the half adder and full adder circuit are designed and the truth table for half adder and full adder are verified.
